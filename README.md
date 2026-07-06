@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/Ashutoshub/rocky-and-grace/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/Ashutoshub/rocky-and-grace/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Ashutoshub/rocky-and-grace/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Ashutoshub/rocky-and-grace/tree/master/0207-course-schedule) |
@@ -67,4 +68,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1288-remove-covered-intervals](https://github.com/Ashutoshub/rocky-and-grace/tree/master/1288-remove-covered-intervals) |
+## Hash Table
+|  |
+| ------- |
+| [0127-word-ladder](https://github.com/Ashutoshub/rocky-and-grace/tree/master/0127-word-ladder) |
+## String
+|  |
+| ------- |
+| [0127-word-ladder](https://github.com/Ashutoshub/rocky-and-grace/tree/master/0127-word-ladder) |
 <!---LeetCode Topics End-->
