@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0126-word-ladder-ii](https://github.com/Ashutoshub/rocky-and-grace/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/Ashutoshub/rocky-and-grace/tree/master/0127-word-ladder) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Ashutoshub/rocky-and-grace/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Backtracking
 |  |
 | ------- |
@@ -99,4 +100,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Ashutoshub/rocky-and-grace/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Ashutoshub/rocky-and-grace/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
+## Prefix Sum
+|  |
+| ------- |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Ashutoshub/rocky-and-grace/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 <!---LeetCode Topics End-->
