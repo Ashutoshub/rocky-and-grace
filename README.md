@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/Ashutoshub/rocky-and-grace/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/Ashutoshub/rocky-and-grace/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Ashutoshub/rocky-and-grace/tree/master/1020-number-of-enclaves) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/Ashutoshub/rocky-and-grace/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1288-remove-covered-intervals](https://github.com/Ashutoshub/rocky-and-grace/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/Ashutoshub/rocky-and-grace/tree/master/1301-number-of-paths-with-max-score) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Ashutoshub/rocky-and-grace/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/Ashutoshub/rocky-and-grace/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/Ashutoshub/rocky-and-grace/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Ashutoshub/rocky-and-grace/tree/master/1020-number-of-enclaves) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/Ashutoshub/rocky-and-grace/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1301-number-of-paths-with-max-score](https://github.com/Ashutoshub/rocky-and-grace/tree/master/1301-number-of-paths-with-max-score) |
 ## Depth-First Search
 |  |
@@ -56,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0802-find-eventual-safe-states](https://github.com/Ashutoshub/rocky-and-grace/tree/master/0802-find-eventual-safe-states) |
 | [0994-rotting-oranges](https://github.com/Ashutoshub/rocky-and-grace/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Ashutoshub/rocky-and-grace/tree/master/1020-number-of-enclaves) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/Ashutoshub/rocky-and-grace/tree/master/1091-shortest-path-in-binary-matrix) |
 ## Union-Find
 |  |
 | ------- |
