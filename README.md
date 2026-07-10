@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/Ashutoshub/rocky-and-grace/tree/master/0542-01-matrix) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Ashutoshub/rocky-and-grace/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1301-number-of-paths-with-max-score](https://github.com/Ashutoshub/rocky-and-grace/tree/master/1301-number-of-paths-with-max-score) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/Ashutoshub/rocky-and-grace/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Ashutoshub/rocky-and-grace/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Matrix
 |  |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/Ashutoshub/rocky-and-grace/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Ashutoshub/rocky-and-grace/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/Ashutoshub/rocky-and-grace/tree/master/0802-find-eventual-safe-states) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/Ashutoshub/rocky-and-grace/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Ashutoshub/rocky-and-grace/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Ashutoshub/rocky-and-grace/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Topological Sort
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/Ashutoshub/rocky-and-grace/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Ashutoshub/rocky-and-grace/tree/master/0210-course-schedule-ii) |
 | [0802-find-eventual-safe-states](https://github.com/Ashutoshub/rocky-and-grace/tree/master/0802-find-eventual-safe-states) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/Ashutoshub/rocky-and-grace/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Sorting
 |  |
 | ------- |
@@ -145,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0743-network-delay-time](https://github.com/Ashutoshub/rocky-and-grace/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Ashutoshub/rocky-and-grace/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/Ashutoshub/rocky-and-grace/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Two Pointers
 |  |
 | ------- |
