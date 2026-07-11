@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/Ashutoshub/rocky-and-grace/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Ashutoshub/rocky-and-grace/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/Ashutoshub/rocky-and-grace/tree/master/0542-01-matrix) |
+| [0721-accounts-merge](https://github.com/Ashutoshub/rocky-and-grace/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/Ashutoshub/rocky-and-grace/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/Ashutoshub/rocky-and-grace/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Ashutoshub/rocky-and-grace/tree/master/1020-number-of-enclaves) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/Ashutoshub/rocky-and-grace/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Ashutoshub/rocky-and-grace/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/Ashutoshub/rocky-and-grace/tree/master/0547-number-of-provinces) |
+| [0721-accounts-merge](https://github.com/Ashutoshub/rocky-and-grace/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/Ashutoshub/rocky-and-grace/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/Ashutoshub/rocky-and-grace/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/Ashutoshub/rocky-and-grace/tree/master/0785-is-graph-bipartite) |
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/Ashutoshub/rocky-and-grace/tree/master/0210-course-schedule-ii) |
 | [0542-01-matrix](https://github.com/Ashutoshub/rocky-and-grace/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/Ashutoshub/rocky-and-grace/tree/master/0547-number-of-provinces) |
+| [0721-accounts-merge](https://github.com/Ashutoshub/rocky-and-grace/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/Ashutoshub/rocky-and-grace/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/Ashutoshub/rocky-and-grace/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/Ashutoshub/rocky-and-grace/tree/master/0785-is-graph-bipartite) |
@@ -83,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/Ashutoshub/rocky-and-grace/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Ashutoshub/rocky-and-grace/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Ashutoshub/rocky-and-grace/tree/master/0547-number-of-provinces) |
+| [0721-accounts-merge](https://github.com/Ashutoshub/rocky-and-grace/tree/master/0721-accounts-merge) |
 | [0785-is-graph-bipartite](https://github.com/Ashutoshub/rocky-and-grace/tree/master/0785-is-graph-bipartite) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Ashutoshub/rocky-and-grace/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1020-number-of-enclaves](https://github.com/Ashutoshub/rocky-and-grace/tree/master/1020-number-of-enclaves) |
@@ -117,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0721-accounts-merge](https://github.com/Ashutoshub/rocky-and-grace/tree/master/0721-accounts-merge) |
 | [1288-remove-covered-intervals](https://github.com/Ashutoshub/rocky-and-grace/tree/master/1288-remove-covered-intervals) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Ashutoshub/rocky-and-grace/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Hash Table
@@ -124,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0126-word-ladder-ii](https://github.com/Ashutoshub/rocky-and-grace/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/Ashutoshub/rocky-and-grace/tree/master/0127-word-ladder) |
+| [0721-accounts-merge](https://github.com/Ashutoshub/rocky-and-grace/tree/master/0721-accounts-merge) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Ashutoshub/rocky-and-grace/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Ashutoshub/rocky-and-grace/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## String
@@ -131,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0126-word-ladder-ii](https://github.com/Ashutoshub/rocky-and-grace/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/Ashutoshub/rocky-and-grace/tree/master/0127-word-ladder) |
+| [0721-accounts-merge](https://github.com/Ashutoshub/rocky-and-grace/tree/master/0721-accounts-merge) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Ashutoshub/rocky-and-grace/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Backtracking
 |  |
