@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1091-shortest-path-in-binary-matrix](https://github.com/Ashutoshub/rocky-and-grace/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1288-remove-covered-intervals](https://github.com/Ashutoshub/rocky-and-grace/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/Ashutoshub/rocky-and-grace/tree/master/1301-number-of-paths-with-max-score) |
+| [1331-rank-transform-of-an-array](https://github.com/Ashutoshub/rocky-and-grace/tree/master/1331-rank-transform-of-an-array) |
 | [1631-path-with-minimum-effort](https://github.com/Ashutoshub/rocky-and-grace/tree/master/1631-path-with-minimum-effort) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Ashutoshub/rocky-and-grace/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Ashutoshub/rocky-and-grace/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0721-accounts-merge](https://github.com/Ashutoshub/rocky-and-grace/tree/master/0721-accounts-merge) |
 | [1288-remove-covered-intervals](https://github.com/Ashutoshub/rocky-and-grace/tree/master/1288-remove-covered-intervals) |
+| [1331-rank-transform-of-an-array](https://github.com/Ashutoshub/rocky-and-grace/tree/master/1331-rank-transform-of-an-array) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Ashutoshub/rocky-and-grace/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Hash Table
 |  |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/Ashutoshub/rocky-and-grace/tree/master/0127-word-ladder) |
 | [0721-accounts-merge](https://github.com/Ashutoshub/rocky-and-grace/tree/master/0721-accounts-merge) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Ashutoshub/rocky-and-grace/tree/master/0947-most-stones-removed-with-same-row-or-column) |
+| [1331-rank-transform-of-an-array](https://github.com/Ashutoshub/rocky-and-grace/tree/master/1331-rank-transform-of-an-array) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Ashutoshub/rocky-and-grace/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## String
 |  |
