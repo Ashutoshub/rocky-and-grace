@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/Ashutoshub/rocky-and-grace/tree/master/0542-01-matrix) |
 | [0721-accounts-merge](https://github.com/Ashutoshub/rocky-and-grace/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/Ashutoshub/rocky-and-grace/tree/master/0733-flood-fill) |
+| [0778-swim-in-rising-water](https://github.com/Ashutoshub/rocky-and-grace/tree/master/0778-swim-in-rising-water) |
 | [0827-making-a-large-island](https://github.com/Ashutoshub/rocky-and-grace/tree/master/0827-making-a-large-island) |
 | [0994-rotting-oranges](https://github.com/Ashutoshub/rocky-and-grace/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Ashutoshub/rocky-and-grace/tree/master/1020-number-of-enclaves) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Ashutoshub/rocky-and-grace/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/Ashutoshub/rocky-and-grace/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Ashutoshub/rocky-and-grace/tree/master/0733-flood-fill) |
+| [0778-swim-in-rising-water](https://github.com/Ashutoshub/rocky-and-grace/tree/master/0778-swim-in-rising-water) |
 | [0827-making-a-large-island](https://github.com/Ashutoshub/rocky-and-grace/tree/master/0827-making-a-large-island) |
 | [0994-rotting-oranges](https://github.com/Ashutoshub/rocky-and-grace/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Ashutoshub/rocky-and-grace/tree/master/1020-number-of-enclaves) |
@@ -52,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/Ashutoshub/rocky-and-grace/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/Ashutoshub/rocky-and-grace/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/Ashutoshub/rocky-and-grace/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/Ashutoshub/rocky-and-grace/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/Ashutoshub/rocky-and-grace/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Ashutoshub/rocky-and-grace/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/Ashutoshub/rocky-and-grace/tree/master/0802-find-eventual-safe-states) |
@@ -75,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/Ashutoshub/rocky-and-grace/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/Ashutoshub/rocky-and-grace/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/Ashutoshub/rocky-and-grace/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/Ashutoshub/rocky-and-grace/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/Ashutoshub/rocky-and-grace/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Ashutoshub/rocky-and-grace/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/Ashutoshub/rocky-and-grace/tree/master/0802-find-eventual-safe-states) |
@@ -92,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Ashutoshub/rocky-and-grace/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Ashutoshub/rocky-and-grace/tree/master/0547-number-of-provinces) |
 | [0721-accounts-merge](https://github.com/Ashutoshub/rocky-and-grace/tree/master/0721-accounts-merge) |
+| [0778-swim-in-rising-water](https://github.com/Ashutoshub/rocky-and-grace/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/Ashutoshub/rocky-and-grace/tree/master/0785-is-graph-bipartite) |
 | [0827-making-a-large-island](https://github.com/Ashutoshub/rocky-and-grace/tree/master/0827-making-a-large-island) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Ashutoshub/rocky-and-grace/tree/master/0947-most-stones-removed-with-same-row-or-column) |
@@ -163,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0778-swim-in-rising-water](https://github.com/Ashutoshub/rocky-and-grace/tree/master/0778-swim-in-rising-water) |
 | [1631-path-with-minimum-effort](https://github.com/Ashutoshub/rocky-and-grace/tree/master/1631-path-with-minimum-effort) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Ashutoshub/rocky-and-grace/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Ashutoshub/rocky-and-grace/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -170,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/Ashutoshub/rocky-and-grace/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/Ashutoshub/rocky-and-grace/tree/master/0778-swim-in-rising-water) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Ashutoshub/rocky-and-grace/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1631-path-with-minimum-effort](https://github.com/Ashutoshub/rocky-and-grace/tree/master/1631-path-with-minimum-effort) |
 ## Shortest Path
