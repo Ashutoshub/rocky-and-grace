@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/Ashutoshub/rocky-and-grace/tree/master/0721-accounts-merge) |
 | [1288-remove-covered-intervals](https://github.com/Ashutoshub/rocky-and-grace/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Ashutoshub/rocky-and-grace/tree/master/1331-rank-transform-of-an-array) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Ashutoshub/rocky-and-grace/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Ashutoshub/rocky-and-grace/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Hash Table
 |  |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/Ashutoshub/rocky-and-grace/tree/master/0721-accounts-merge) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Ashutoshub/rocky-and-grace/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1331-rank-transform-of-an-array](https://github.com/Ashutoshub/rocky-and-grace/tree/master/1331-rank-transform-of-an-array) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Ashutoshub/rocky-and-grace/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Ashutoshub/rocky-and-grace/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## String
 |  |
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0126-word-ladder-ii](https://github.com/Ashutoshub/rocky-and-grace/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/Ashutoshub/rocky-and-grace/tree/master/0127-word-ladder) |
 | [0721-accounts-merge](https://github.com/Ashutoshub/rocky-and-grace/tree/master/0721-accounts-merge) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Ashutoshub/rocky-and-grace/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Ashutoshub/rocky-and-grace/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Backtracking
 |  |
@@ -198,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Ashutoshub/rocky-and-grace/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Ashutoshub/rocky-and-grace/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Bit Manipulation
 |  |
