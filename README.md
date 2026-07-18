@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/Ashutoshub/rocky-and-grace/tree/master/0130-surrounded-regions) |
+| [0198-house-robber](https://github.com/Ashutoshub/rocky-and-grace/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Ashutoshub/rocky-and-grace/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/Ashutoshub/rocky-and-grace/tree/master/0542-01-matrix) |
 | [0721-accounts-merge](https://github.com/Ashutoshub/rocky-and-grace/tree/master/0721-accounts-merge) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Ashutoshub/rocky-and-grace/tree/master/0070-climbing-stairs) |
+| [0198-house-robber](https://github.com/Ashutoshub/rocky-and-grace/tree/master/0198-house-robber) |
 | [0542-01-matrix](https://github.com/Ashutoshub/rocky-and-grace/tree/master/0542-01-matrix) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Ashutoshub/rocky-and-grace/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1301-number-of-paths-with-max-score](https://github.com/Ashutoshub/rocky-and-grace/tree/master/1301-number-of-paths-with-max-score) |
