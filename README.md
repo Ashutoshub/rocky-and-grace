@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/Ashutoshub/rocky-and-grace/tree/master/0733-flood-fill) |
 | [0778-swim-in-rising-water](https://github.com/Ashutoshub/rocky-and-grace/tree/master/0778-swim-in-rising-water) |
 | [0827-making-a-large-island](https://github.com/Ashutoshub/rocky-and-grace/tree/master/0827-making-a-large-island) |
+| [0877-stone-game](https://github.com/Ashutoshub/rocky-and-grace/tree/master/0877-stone-game) |
 | [0994-rotting-oranges](https://github.com/Ashutoshub/rocky-and-grace/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Ashutoshub/rocky-and-grace/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Ashutoshub/rocky-and-grace/tree/master/1091-shortest-path-in-binary-matrix) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/Ashutoshub/rocky-and-grace/tree/master/0486-predict-the-winner) |
 | [0542-01-matrix](https://github.com/Ashutoshub/rocky-and-grace/tree/master/0542-01-matrix) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Ashutoshub/rocky-and-grace/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0877-stone-game](https://github.com/Ashutoshub/rocky-and-grace/tree/master/0877-stone-game) |
 | [1301-number-of-paths-with-max-score](https://github.com/Ashutoshub/rocky-and-grace/tree/master/1301-number-of-paths-with-max-score) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Ashutoshub/rocky-and-grace/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Ashutoshub/rocky-and-grace/tree/master/1976-number-of-ways-to-arrive-at-destination) |
@@ -199,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Ashutoshub/rocky-and-grace/tree/master/0070-climbing-stairs) |
 | [0486-predict-the-winner](https://github.com/Ashutoshub/rocky-and-grace/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Ashutoshub/rocky-and-grace/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/Ashutoshub/rocky-and-grace/tree/master/0877-stone-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Ashutoshub/rocky-and-grace/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Ashutoshub/rocky-and-grace/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Ashutoshub/rocky-and-grace/tree/master/3312-sorted-gcd-pair-queries) |
@@ -320,4 +323,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Ashutoshub/rocky-and-grace/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/Ashutoshub/rocky-and-grace/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
