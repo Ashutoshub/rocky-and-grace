@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/Ashutoshub/rocky-and-grace/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Ashutoshub/rocky-and-grace/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1631-path-with-minimum-effort](https://github.com/Ashutoshub/rocky-and-grace/tree/master/1631-path-with-minimum-effort) |
+| [1872-stone-game-viii](https://github.com/Ashutoshub/rocky-and-grace/tree/master/1872-stone-game-viii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Ashutoshub/rocky-and-grace/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Ashutoshub/rocky-and-grace/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Ashutoshub/rocky-and-grace/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1301-number-of-paths-with-max-score](https://github.com/Ashutoshub/rocky-and-grace/tree/master/1301-number-of-paths-with-max-score) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Ashutoshub/rocky-and-grace/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1406-stone-game-iii](https://github.com/Ashutoshub/rocky-and-grace/tree/master/1406-stone-game-iii) |
+| [1872-stone-game-viii](https://github.com/Ashutoshub/rocky-and-grace/tree/master/1872-stone-game-viii) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Ashutoshub/rocky-and-grace/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Ashutoshub/rocky-and-grace/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Ashutoshub/rocky-and-grace/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -227,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Ashutoshub/rocky-and-grace/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Ashutoshub/rocky-and-grace/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/Ashutoshub/rocky-and-grace/tree/master/1406-stone-game-iii) |
+| [1872-stone-game-viii](https://github.com/Ashutoshub/rocky-and-grace/tree/master/1872-stone-game-viii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Ashutoshub/rocky-and-grace/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Ashutoshub/rocky-and-grace/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Ashutoshub/rocky-and-grace/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -246,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1872-stone-game-viii](https://github.com/Ashutoshub/rocky-and-grace/tree/master/1872-stone-game-viii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Ashutoshub/rocky-and-grace/tree/master/3312-sorted-gcd-pair-queries) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Ashutoshub/rocky-and-grace/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Binary Search
@@ -368,14 +372,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/Ashutoshub/rocky-and-grace/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Ashutoshub/rocky-and-grace/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/Ashutoshub/rocky-and-grace/tree/master/1406-stone-game-iii) |
+| [1872-stone-game-viii](https://github.com/Ashutoshub/rocky-and-grace/tree/master/1872-stone-game-viii) |
 ## Minimax
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/Ashutoshub/rocky-and-grace/tree/master/1406-stone-game-iii) |
+| [1872-stone-game-viii](https://github.com/Ashutoshub/rocky-and-grace/tree/master/1872-stone-game-viii) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/Ashutoshub/rocky-and-grace/tree/master/1406-stone-game-iii) |
+| [1872-stone-game-viii](https://github.com/Ashutoshub/rocky-and-grace/tree/master/1872-stone-game-viii) |
 ## Sliding Window
 |  |
 | ------- |
