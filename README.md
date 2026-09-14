@@ -245,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Ashutoshub/rocky-and-grace/tree/master/0070-climbing-stairs) |
 | [0486-predict-the-winner](https://github.com/Ashutoshub/rocky-and-grace/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Ashutoshub/rocky-and-grace/tree/master/0628-maximum-product-of-three-numbers) |
+| [0836-rectangle-overlap](https://github.com/Ashutoshub/rocky-and-grace/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/Ashutoshub/rocky-and-grace/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/Ashutoshub/rocky-and-grace/tree/master/1406-stone-game-iii) |
 | [1872-stone-game-viii](https://github.com/Ashutoshub/rocky-and-grace/tree/master/1872-stone-game-viii) |
@@ -440,4 +441,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0584-find-customer-referee](https://github.com/Ashutoshub/rocky-and-grace/tree/master/0584-find-customer-referee) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Ashutoshub/rocky-and-grace/tree/master/1757-recyclable-and-low-fat-products) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/Ashutoshub/rocky-and-grace/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
