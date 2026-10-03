@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/Ashutoshub/rocky-and-grace/tree/master/0032-longest-valid-parentheses) |
 | [0062-unique-paths](https://github.com/Ashutoshub/rocky-and-grace/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Ashutoshub/rocky-and-grace/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/Ashutoshub/rocky-and-grace/tree/master/0198-house-robber) |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/Ashutoshub/rocky-and-grace/tree/master/0032-longest-valid-parentheses) |
 | [0126-word-ladder-ii](https://github.com/Ashutoshub/rocky-and-grace/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/Ashutoshub/rocky-and-grace/tree/master/0127-word-ladder) |
 | [0721-accounts-merge](https://github.com/Ashutoshub/rocky-and-grace/tree/master/0721-accounts-merge) |
@@ -394,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/Ashutoshub/rocky-and-grace/tree/master/0032-longest-valid-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Ashutoshub/rocky-and-grace/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Ashutoshub/rocky-and-grace/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Monotonic Stack
@@ -482,5 +485,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/Ashutoshub/rocky-and-grace/tree/master/0032-longest-valid-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Ashutoshub/rocky-and-grace/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
