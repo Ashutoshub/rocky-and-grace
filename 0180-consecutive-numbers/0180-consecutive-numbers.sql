@@ -1,8 +1,10 @@
-# Write your MySQL query statement below
-SELECT DISTINCT l1.num AS ConsecutiveNums
-FROM Logs l1
-JOIN Logs l2
-        ON l1.id = l2.id - 1
-JOIN Logs l3
-        ON l1.id = l3.id - 2
-WHERE l1.num = l2.num AND l2.num = l3.num;
+WITH NumberGroups AS (
+    SELECT 
+        num,
+        id - ROW_NUMBER() OVER (PARTITION BY num ORDER BY id) AS island_id
+    FROM Logs
+)
+SELECT DISTINCT num AS ConsecutiveNums
+FROM NumberGroups
+GROUP BY num, island_id
+HAVING COUNT(*) >= 3;
