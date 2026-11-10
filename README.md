@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Ashutoshub/rocky-and-grace/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Ashutoshub/rocky-and-grace/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Ashutoshub/rocky-and-grace/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3693-climbing-stairs-ii](https://github.com/Ashutoshub/rocky-and-grace/tree/master/3693-climbing-stairs-ii) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Ashutoshub/rocky-and-grace/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Ashutoshub/rocky-and-grace/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/Ashutoshub/rocky-and-grace/tree/master/3731-find-missing-elements) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Ashutoshub/rocky-and-grace/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Ashutoshub/rocky-and-grace/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Ashutoshub/rocky-and-grace/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3693-climbing-stairs-ii](https://github.com/Ashutoshub/rocky-and-grace/tree/master/3693-climbing-stairs-ii) |
 ## Matrix
 |  |
 | ------- |
